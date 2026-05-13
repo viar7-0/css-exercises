@@ -23,6 +23,7 @@ body {
   display: flex;
   flex-direction: column;
   padding: 10px;
+  
 }
 
 .icon {
@@ -93,12 +94,14 @@ button.cancel {
 }
 .header{
   padding-left: 12px;
+  font-weight: bold;
+  font-size: large;
 }
 .third{
   display: flex;
   flex-direction: row;
   gap:10px;
   padding-left: 55px;
-  padding-top: 10px;
+  padding-top: 15px;
 
 }
